@@ -1,4 +1,4 @@
-package com.kimurashin.fastdev
+package com.kimurashin.fastdev.presentation.screens
 
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application

@@ -1,4 +1,4 @@
-package com.kimurashin.fastdev
+package com.kimurashin.fastdev.presentation.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

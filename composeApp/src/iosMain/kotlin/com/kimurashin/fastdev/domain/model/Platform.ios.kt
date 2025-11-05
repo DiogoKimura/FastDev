@@ -1,4 +1,4 @@
-package com.kimurashin.fastdev
+package com.kimurashin.fastdev.domain.model
 
 import platform.UIKit.UIDevice
 
